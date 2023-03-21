@@ -450,7 +450,7 @@ const listMessage = {
     //------- BUTTON DOC WITH EXTERNAL ADS
     // MAMPUS DI ENC :v
     
-let url = `${pickRandom(['https://telegra.ph/file/010ac47b98349d553a25d.jpg'])}`
+let url = `${pickRandom(['https://telegra.ph/file/9ed502a0dd2fcb00f5e96.jpg'])}`
 
 let buttonMessage= {
 'document':{'url':sgc},
