@@ -53,7 +53,7 @@ global.sdc = " "
 global.snh = 'https://xhitori.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082282527277'
+global.pdana = '6285782163442'
 global.povo = '_'
 global.pgopay = '_'
 global.ppulsa = '082282527277'
@@ -62,14 +62,14 @@ global.psaweria = '_'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281323870860'
-global.nomorown = '6282282527277'
-global.namebot = 'XHITORI'
-global.nameown = 'Owner Bot'
+global.nomorown = '6285782163442'
+global.namebot = 'Nino'
+global.nameown = 'Aku Pedo'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282282527277', 'owner bot', true]
+  ['6285782163442', 'owner bot', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,11 +114,11 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
-global.wm3 = '❖ ʜɪᴛᴏʀɪ'
+global.wm2 = 'Nino'
+global.wm3 = '❖ Nino'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '✨┊ XH1TORI '
+global.titlebot = '✨┊ Nino'
 global.author = global.wm
 
 
